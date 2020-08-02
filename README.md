@@ -1,2 +1,2 @@
 # THEO266.github.io
-THEO266 webpage
+This is what I am using to host my THEO266 webpage
